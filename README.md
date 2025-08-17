@@ -69,13 +69,13 @@ Make sure you have the following installed:
   ```
 2. **Install dependencies:**
 
-  ```bash
+```bash
    pnpm install
   ```
 
 3. **Run the development server:**
 
-   ```bash
+```bash
    pnpm dev
    ```
 
