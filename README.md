@@ -69,9 +69,9 @@ Make sure you have the following installed:
 
 2. **Install dependencies:**
 
-   ```bash
+  ```bash
    pnpm install
-   ```
+  ```
 
 3. **Run the development server:**
 
@@ -156,9 +156,4 @@ GitHub: [@krushna001m](https://github.com/krushna001m)
 
 📜 *This project highlights the responsible use of technology in certificate generation and serves as a learning prototype for students, educators, and developers.*
 
-```
 
----
-
-Do you also want me to add **screenshots and usage examples** (like form + generated certificate preview) in the README so it looks more attractive on GitHub?
-```
