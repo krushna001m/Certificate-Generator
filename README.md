@@ -62,10 +62,11 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
 
-   ```bash
+```bash
    git clone https://github.com/krushna001m/Certificate-Generator.git
    cd Certificate-Generator
-  ``
+   
+  ```
 2. **Install dependencies:**
 
   ```bash
