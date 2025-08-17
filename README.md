@@ -1,7 +1,7 @@
 
-# 🏆 Certificate Generator App
+# 🏆 Certificate Generator
 
-A modern, browser-based **Certificate Generator App** built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**.  
+A modern, browser-based **Certificate Generator** built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**.  
 This tool allows users to generate customizable **sample certificates** for educational and demonstration purposes with built-in ethical safeguards.
 
 ---
